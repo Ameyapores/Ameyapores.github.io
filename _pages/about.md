@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Robotics Conference 2025-258_Original.jpeg‎
+  image: trc2025.jpeg‎
   image_circular: true # crops the image to make it circular
   address: >
     <p> MN3130 </p>
