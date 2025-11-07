@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: trc.jpg‎
+  image: trc.jpeg‎
   image_circular: true # crops the image to make it circular
   address: >
     <p> MN3130 </p>
