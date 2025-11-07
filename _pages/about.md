@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: slack.jpeg
+  image: Robotics Conference 2025-258_Original.jpeg‎
   image_circular: true # crops the image to make it circular
   address: >
     <p> MN3130 </p>
