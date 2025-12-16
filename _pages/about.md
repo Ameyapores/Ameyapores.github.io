@@ -21,7 +21,7 @@ Hey there! Excited to have you here.
 
 I am a **[Eric and Wendy Schmidt AI in Science Postdoctoral Fellow](https://schmidtfellows.utoronto.ca)** at the Department of Computer Science at the **University of Toronto (UofT)**. I am also affiliated to the **[Vector Institute for Artificial Intelligence](https://vectorinstitute.ai)** as a Postdoctoral Fellow.
 
-My current research interest spans broad topics of **robotic learning** for manipulation tasks, particularly applied for robot-assisted surgery. Some topics that I am interested in are Reinforcement Learning (RL), accelerated simulations, Imitation learning and foundational models for robotic control.
+My current research interest spans broad topics of **robotic learning** for manipulation tasks, particularly applied for robot-assisted surgery. Some topics that I am interested in are Reinforcement Learning (RL), accelerated simulations and Imitation learning.
 
 Before, I was a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) Ph.D fellow at the Department of Computing Science, University of Verona, Italy (UNIVR) and at the Automatic Control, Robotics and Computer Vision division at the Universitat Politècnica de Catalunya (UPC) Barcelona, Spain. My Ph.D. thesis was jointly supervised by [Prof. Paolo Fiorini](https://www.dimi.univr.it/?ent=persona&id=9) and [Prof Alicia Casals](https://futur.upc.edu/AliciaCasalsGelpi) as part of the European Union's Horizon 2020 research and innovation program, AuTonomous intraLumiAl Surgery [ATLAS](https://atlas-itn.eu/) project.
 
