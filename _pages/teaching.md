@@ -1,16 +1,49 @@
 ---
 layout: page
 permalink: /teaching/
-title: Music
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+title: Teaching
+description: Courses I teach and have taught
+nav: true
 nav_order: 5
 ---
-**Music**
-In my spare time, I used to experiment with AI generated music. You can check my music on [Spotify](https://open.spotify.com/artist/6wWv9SWI07KvCb9YTNJFpa?si=QDW-VkW6QuKi_b2RUyxBxw) or [Apple music](https://music.apple.com/us/artist/uncle-pores/1719448357).
 
-The genre of my music is mostly pop folk and Indie. I generally use open-source AI softwares to help me in the composition and the vocals.
+## Current Courses
 
-Some of my representative albums are below.
+<div class="row">
+  <div class="col-md-12">
+    <div class="card mb-4">
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="{{ '/csc415/' | relative_url }}" style="color: inherit; text-decoration: none;">
+            <i class="fas fa-graduation-cap"></i> CSC415: Introduction to Reinforcement Learning
+          </a>
+        </h3>
+        <p class="card-text">
+          <strong>Term:</strong> Winter 2026<br>
+          <strong>Institution:</strong> University of Toronto Mississauga<br>
+          <strong>Level:</strong> Undergraduate
+        </p>
+        <p class="card-text">
+          This course provides an introduction to reinforcement learning intelligence, focusing on the study and design of agents 
+          that interact with a complex, uncertain world to achieve a goal. Topics covered include Markov Decision Processes, 
+          reinforcement learning algorithms, planning, function approximation, and applications in robotics.
+        </p>
+        <a href="{{ '/csc415/' | relative_url }}" class="btn btn-primary">
+          <i class="fas fa-external-link-alt"></i> View Course Website
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 
+---
 
+## Past Courses
+
+*No past courses to display at this time.*
+
+---
+
+<div class="text-center text-muted mt-4">
+  <small>For course materials and detailed information, please visit individual course pages.</small>
+</div>
