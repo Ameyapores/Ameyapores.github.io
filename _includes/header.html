@@ -2,6 +2,7 @@
     <header>
 
       <!-- Nav Bar -->
+      {% unless page.hide_nav %}
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
           {% if page.permalink != '/' -%}
@@ -108,6 +109,7 @@
           </div>
         </div>
       </nav>
+      {% endunless %}
 {% if site.enable_progressbar %}
       <!-- Scrolling Progress Bar -->
       <progress id="progress" value="0">

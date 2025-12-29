@@ -86,6 +86,9 @@
     - year: 2029
       items: 
         - Max Planck Medal
+    - year: 2025
+      items: 
+        - Best PhD thesis award, by UPC Barcelona
 
 - title: Academic Interests
   type: nested_list
