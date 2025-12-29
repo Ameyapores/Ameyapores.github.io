@@ -21,7 +21,7 @@ nav_order: 2
         <p class="card-text">
           <strong>Term:</strong> Winter 2026<br>
           <strong>Institution:</strong> University of Toronto Mississauga<br>
-          <strong>Level:</strong> Undergraduate
+          <strong>Level:</strong> 4th-year Undergraduate
         </p>
         <p class="card-text">
           This course provides an introduction to reinforcement learning intelligence, focusing on the study and design of agents 
