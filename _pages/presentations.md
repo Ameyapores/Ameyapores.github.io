@@ -10,7 +10,9 @@ nav_order: 6
   {% if entry.title == "Presentations" %}
     <div class="cv">
       <div class="card mt-3 p-3">
-        {% include cv/time_table.html entry=entry %}
+        <div>
+          {% include cv/time_table.html entry=entry %}
+        </div>
       </div>
     </div>
   {% endif %}
