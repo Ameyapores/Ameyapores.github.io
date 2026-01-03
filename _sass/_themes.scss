@@ -90,4 +90,25 @@ html[data-theme='dark'] {
   .repo-img-dark {
     display: block;
   }
+
+  /* Dark mode overrides for Bootstrap warning classes */
+  .table-warning {
+    background-color: #5c4d00 !important;
+    color: #ffffff !important;
+    
+    td, th {
+      background-color: #5c4d00 !important;
+      color: #ffffff !important;
+    }
+  }
+
+  .alert-warning {
+    background-color: #5c4d00 !important;
+    color: #ffffff !important;
+    border-color: #8a7300 !important;
+    
+    .alert-heading, p {
+      color: #ffffff !important;
+    }
+  }
 }
