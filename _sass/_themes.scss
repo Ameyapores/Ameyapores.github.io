@@ -111,4 +111,14 @@ html[data-theme='dark'] {
       color: #ffffff !important;
     }
   }
+
+  .alert-info {
+    background-color: #004085 !important;
+    color: #ffffff !important;
+    border-color: #b8daff !important;
+    
+    .alert-heading, p, strong {
+      color: #ffffff !important;
+    }
+  }
 }

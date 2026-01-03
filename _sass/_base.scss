@@ -591,6 +591,9 @@ footer.sticky-bottom {
       }
 
       .abbr {
+        width: 100%;
+        min-width: 180px;
+        max-width: 400px;
         height: 2rem;
         margin-bottom: 0.5rem;
 
