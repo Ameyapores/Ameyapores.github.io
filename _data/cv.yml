@@ -76,19 +76,41 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Fellowships
+  type: time_table
+  contents:
+    - year: 2025
+      items: 
+        - Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, by Schmidt Futures
+    - year: 2023
+      items: 
+        - Umberto Veronesi Fellowship, by Umberto Veronesi Foundation, Italy
+    - year: 2019
+      items: 
+        - Marie Skłodowska-Curie Actions ITN Ph.D. fellowship, by European Union's H2020
+    - year: 2018
+      items: 
+        - Erasmus+ International Credit Mobility (ICM) fellowship, by European Commission
+    - year: 2017
+      items: 
+        - Mechanobiology Institute (MBI) fellowship, by National Institute of Singapore (NUS)
+    - year: 2019
+      items: 
+        - Atal Incubation Centre Team Lead, by National Institute of Transforming India (NITI)
+    - year: 2014
+      items: 
+        - INSPIRE Fellowship, by Department of Science and Technology, Govt. of India
+
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
     - year: 2025
       items: 
         - Best PhD thesis award, by UPC Barcelona
+        - UofT Travel grant, by University of Toronto
+    - year: 2018
+      items: 
+        - Invited by the office of the President of India, New Delhi
 
 - title: Academic Interests
   type: nested_list
