@@ -12,7 +12,7 @@ nav_order: 5
       <div class="card mt-3 p-3">
         <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
         <div>
-          {% include cv/time_table.html %}
+          {% include cv/time_table.html entry=entry %}
         </div>
       </div>
     </div>
